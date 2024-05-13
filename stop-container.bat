@@ -1,1 +1,1 @@
-docker container stop opdracht-image
+docker container stop opdracht-container
